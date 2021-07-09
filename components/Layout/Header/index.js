@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
-import { NavBar } from '../../NavBar';
+import { NavBar } from '../../navbar';
 import LanguageToggle from '../LanguageToggle';
 import CartBtn from '../../Cart';
 import styles from './styles.module.sass';
