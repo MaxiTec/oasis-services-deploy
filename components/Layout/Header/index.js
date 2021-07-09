@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import { NavBar } from '../../navbar';
 import LanguageToggle from '../LanguageToggle';
-import CartBtn from '../../Cart';
+import CartBtn from '../../cart';
 import styles from './styles.module.sass';
 const Header = ({ isMobile, t, ...props }) => {
   const [isOpen, setIsOpen] = useState(false);
