@@ -1,0 +1,70 @@
+@import ../../../src/styles/sass/modules/_variables.sass
+
+.header
+    background-color: $secondaryColor
+    background-position: center center !important
+    background-size: cover !important
+    max-height: 78px
+    width: 100%
+
+    +media(">=md")
+        &__navbar
+            display: flex
+            justify-content: space-between
+            align-items: center
+
+            &__brand
+                height: 60px
+                width: 100px
+                text-align: center
+                line-height: 60px
+                position: relative
+
+                // border-right: 1px solid #fff
+
+
+    &__wrap
+        transition: background 0.15s ease-in-out
+
+        +media(">=md")
+            height: 78px
+
+
+        &.fixed
+            +media(">md")
+                position: fixed
+                top: 0
+                left: 0
+                z-index: $zIndexMenu
+
+                background-color:$secondaryColor
+
+                width: 100%
+                text-align: center
+
+    +media("<md")
+        position: fixed
+        width: 100%
+        left: 0
+        top: 0
+        z-index: $zIndexMenu
+
+
+    &__mobile
+        display: flex
+        justify-content: space-between
+        align-items: center
+        padding: 0 1rem
+
+        color:#fff
+
+        &__btns
+            display: flex
+            justify-content: center
+            align-items: center
+
+        &__brand img
+            max-width: 23px
+
+        &__open
+            line-height: 60px

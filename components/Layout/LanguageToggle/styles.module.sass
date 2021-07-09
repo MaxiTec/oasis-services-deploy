@@ -1,0 +1,32 @@
+@import ../../../src/styles/sass/modules/_variables.sass
+
+.toggle
+    display: flex
+    align-items: center
+
+    & .separator
+        height: 100%
+        position: relative
+
+        &::after
+            content: ""
+            display: block
+            height: 10px
+            width: 1px
+            background-color: #ffffff
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate(-50%, -50%)
+
+    &__item
+        color:#fff
+
+        font-size: 16px
+        font-weight: 300
+        letter-spacing: 0
+        line-height: 19px
+
+        &.active
+            color: $primaryColor
+            font-weight: 400

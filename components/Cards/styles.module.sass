@@ -1,0 +1,84 @@
+@import ../../src/styles/sass/modules/_variables.sass
+
+.card__base
+    .card__inner
+        display: flex
+        flex-direction: column
+        padding: 1rem
+
+        +media(">=lg")
+            border-radius: 5px
+            background-color: #fff
+            transition: box-shadow 0.35s ease-out
+            flex-direction: row
+            justify-content: space-between
+
+    .card__caption
+        min-width: 200px
+
+        +media(">=lg")
+            max-width: 220px
+
+    .card__image
+        +media(">=lg")
+            max-width: 300px
+
+    .card__info
+        +media(">=lg")
+            padding: 0 1rem
+            border-right: 1px solid rgba(#444444, 20%)
+
+    .card__title
+        +media(">=lg")
+            margin-top: 0px !important
+            margin-bottom: 0.5rem !important
+
+.card
+    overflow: hidden
+    border-radius: 4px
+
+    +media(">=xs", "<lg")
+        margin-bottom: 30px
+        box-shadow: 0 5px 24px 0 rgba(0, 0, 0, 0.15)
+        border: 1px solid rgba(0, 0, 0, 0.1)
+
+
+    +media(">=lg")
+        margin-bottom: 10px
+
+        &:hover
+            box-shadow: 0 5px 24px 0 rgba(0, 0, 0, 0.15)
+
+            border:1px solid rgba(0,0,0,0.1)
+
+        //   &.hover:hover
+        //     box-shadow: 0 5px 24px 0 rgba(0,0,0,0.15)
+
+
+    &__inner
+        padding: 1rem
+
+    &__image
+        border-radius: 4px
+        overflow: hidden
+        position: relative
+        flex-basis: 100%
+
+        // +media(">=lg")
+        //     max-width: 300px
+
+        .img
+            width: 100%
+
+    &__caption
+        +media(">=lg")
+            padding: 0 1rem
+
+.card__title
+    display: block
+    font-size: 18px
+    font-weight: bold
+    letter-spacing: 0
+    line-height: 21px
+    margin-bottom: 1rem
+    margin-top: 1rem

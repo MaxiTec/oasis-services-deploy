@@ -1,0 +1,70 @@
+@import '../../../src/styles/sass/modules/_variables.sass';
+
+\:global {
+    .ant-select{
+        background-color: green
+    }
+  
+}
+
+
+// \::global(.custom-datepicker)
+//     .ant-calendar-picker-input.ant-input
+//         border-radius: 0px
+
+//         border-bottom-color:$secondaryColor
+
+//         border-top-width: 0px
+//         border-right-width: 0px !important
+//         border-left-width: 0px
+//         box-shadow: none
+
+// \::global(.custom-timepicker)
+//     display: block
+
+//     .ant-time-picker-input
+//         border-radius: 0px
+
+//         border-bottom-color:$secondaryColor
+
+//         border-top-width: 0px
+//         border-right-width: 0px !important
+//         border-left-width: 0px
+//         box-shadow: none
+
+// .custom-input
+//     border-radius: 0px
+//     border-top: 0px
+//     border-right: 0px
+//     border-left: 0px
+//     box-shadow: none
+//     outline: none !important
+
+//     &:focus
+//         outline: none
+//         box-shadow: none !important
+
+// .custom-textarea
+//     outline: none
+//     border-radius: 5px
+//     border-color: $secondaryColor
+//     box-shadow: none
+
+//     &:focus
+//         box-shadow: none
+
+// .form-group
+//     margin-bottom: 1rem
+
+//     .form-label
+//         color: $secondaryColor
+//         font-size: 14px
+//         font-weight: 400
+//         line-height: 18px
+
+// .placeholder-input
+//     line-height: 48px
+//     border-bottom: 1px solid $secondaryColor
+//     white-space: nowrap
+//     text-overflow: ellipsis
+//     width: 100%

@@ -1,0 +1,16 @@
+{
+    "name": "Nombre(s)",
+    "last_name": "Apellido",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "confirm_email": "Confirmar Email",
+    "country": "País",
+    "language": "Idioma",
+    "comments": "Comentarios",
+    "card_name": "Titular de la Tarjeta",
+    "number_card": "Numero de la Tarjeta",
+    "expiration": "Caducidad",
+    "pay": "Pagar Reserva",
+    "card": "Tarjeta",
+    "terms_and_conditions":"He leído y acepto las condiciones generales."
+}

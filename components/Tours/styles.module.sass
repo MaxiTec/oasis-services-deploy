@@ -1,0 +1,30 @@
+@import ../../src/styles/sass/modules/_variables.sass
+
+.ticket_card
+    border-bottom: 1px solid rgba(68, 68, 68, 0.1)
+    margin-bottom: 20px
+
+    &__title
+        height: 44px
+        width: 100%
+        line-height: 44px
+        background-color: rgba(68, 68, 68, 0.1)
+        text-align: center
+        font-size: 14px
+        font-weight: bold
+        letter-spacing: 0
+        text-transform: uppercase
+        padding: 0 2rem
+
+        +media(">=lg")
+            text-align: left
+
+    &__inner
+        padding: 10px
+
+    &__hidden
+        padding-bottom: 1rem
+
+    &__separator
+        min-height: 70px
+        background-color: #979797

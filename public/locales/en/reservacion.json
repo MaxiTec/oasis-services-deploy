@@ -1,0 +1,16 @@
+{
+    "name": "Name",
+    "last_name": "Last Name",
+    "phone": "Phone",
+    "email": "Email",
+    "confirm_email": "Confirm Email",
+    "country": "Country",
+    "language": "Language",
+    "comments": "Comments",
+    "card_name": "Name on Card",
+    "number_card": "Credit Card Number",
+    "expiration": "Expiry Date",
+    "pay": "Pay Reservation",
+    "card": "Card",
+    "terms_and_conditions":"I have read and accept the general conditions."
+}

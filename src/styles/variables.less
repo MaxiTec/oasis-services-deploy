@@ -1,0 +1,97 @@
+@ant-prefix: ant;
+@blue-primary:#1890FF;
+@red-primary:#FF1818;
+// -------- Colors -----------
+@primary-color          : @blue-primary;
+@warning-color          : #DC5F07;
+@normal-color           : #444444;
+@body-background        : #fff;
+@success-color: @green-6;
+@info-color: @blue-primary;
+@processing-color: @blue-primary;
+@error-color: @red-primary;
+@highlight-color: @red-primary;
+// Base background color for most components
+@component-background   : #fff;
+@white: #fff;
+@black: #444444;
+
+@text-color: fade(@black, 90%);
+@text-color-secondary: fade(@black, 75%);
+@icon-color-hover: fade(@black, 75%);
+// @heading-color: @black;
+/*FONTS*/
+@font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC','Roboto';
+@font-size-base         : 14px;
+@font-size-lg           : @font-size-base + 2px;
+@font-size-sm           : 12px;
+@line-height-base       : 1.5;
+@border-radius-base     : 4px;
+@border-radius-sm       : 4px;
+// // Border color
+@border-color-base: #444444; // base border outline a component
+// // Buttons
+// @btn-font-weight: 400;
+// @btn-border-radius-base: @border-radius-base;
+// @btn-border-radius-sm: @border-radius-base;
+// @btn-border-width: @border-width-base;
+// @btn-border-style: @border-style-base;
+
+// // @btn-disable-border: @border-color-base;
+// height rules
+@height-base: 35px;
+@height-lg: 45px;
+@height-sm: 24px;
+@select-single-item-height-lg: 45px;
+
+//Slider
+@slider-rail-background-color: tint(@primary-color, 75%);
+@slider-rail-background-color-hover: tint(@primary-color, 75%);
+@slider-track-background-color: @primary-color;
+// @slider-track-background-color-hover: @primary-4;
+@slider-handle-size: 10px;
+@slider-handle-border-width: 0px;
+@slider-handle-background-color: @border-color-base;
+@slider-handle-color: #ffffff;
+@slider-handle-color-focus: tint(@border-color-base, 20%);
+@slider-handle-color-hover: tint(@border-color-base, 60%);
+@slider-handle-margin-top: -3px;
+
+// Grid system
+@grid-columns: 12;
+// Media queries breakpoints
+// @screen-xs and @screen-xs-min is not used in Grid
+// smallest break point is @screen-md
+@screen-xs: 480px;
+@screen-xs-min: @screen-xs;
+// 👆 Extra small screen / phone
+
+// 👇 Small screen / tablet
+@screen-sm: 576px;
+@screen-sm-min: @screen-sm;
+
+// Medium screen / desktop
+@screen-md: 768px;
+@screen-md-min: @screen-md;
+
+// Large screen / wide desktop
+@screen-lg: 1024px;
+@screen-lg-min: @screen-lg;
+
+// Extra large screen / full hd
+@screen-xl: 1200px;
+@screen-xl-min: @screen-xl;
+
+// Extra extra large screen / large desktop
+@screen-xxl: 1400px;
+@screen-xxl-min: @screen-xxl;
+// Pagination
+// ---
+// @pagination-item-bg: @component-background;
+@pagination-item-size: 0px;
+
+// Carousel
+// ---
+@carousel-dot-width: 10px;
+@carousel-dot-height: 10px;
+@carousel-dot-active-width: 10px;

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "hotel_from": "Grand Oasis Cancun",
+    "image": "/img/upgrades/siankaanmaster-pyr.jpg",
+    "nombre": {
+      "es": "UPGRADE A SIAN KA’AN MASTER SUITE EN THE PYRAMID",
+      "en": "UPGRADE FROM GRAND OASIS CANCÚN TO SIAN KA’AN MASTER SUITE IN THE PYRAMID"
+    },
+    "includes": {
+      "es": [
+        {
+          "id": 1,
+          "name": "Vista al mar o a la laguna",
+          "isPyr": false
+        },
+        {
+          "id": 2,
+          "name": "Albornoz y pantuflas de baño",
+          "isPyr": false
+        },
+        {
+          "id": 3,
+          "name": "Cafetera Express",
+          "isPyr": false
+        },
+        {
+          "id": 4,
+          "name": "Acceso a todos los Beach Clubs del complejo. Grand Plus Beach Club es Solo Adultos.",
+          "isPyr": false
+        },
+        {
+          "id": 5,
+          "name": "Room service 24 hrs",
+          "isPyr": false
+        },
+        {
+          "id": 6,
+          "name": "Caja de seguridad",
+          "isPyr": false
+        },
+        {
+          "id": 7,
+          "name": "Amenidades de baño Premium",
+          "isPyr": false
+        },
+        {
+          "id": 8,
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "id": 9,
+          "name": "Acceso a todos los bares y restaurantes del complejo",
+          "isPyr": false
+        },
+        {
+          "id": 10,
+          "name": "WiFi (1 dispositivo por persona)",
+          "isPyr": false
+        },
+        {
+          "id": 11,
+          "name": "Revisión nocturna de la habitación y apertura de cama",
+          "isPyr": false
+        },
+        {
+          "id": 12,
+          "name": "Barra de bebidas Premium (mínimo dos noches)",
+          "isPyr": false
+        },
+        {
+          "id": 13,
+          "name": "20% de descuento en tratamientos * (seleccionados en Spa Sensoria)",
+          "isPyr": true
+        },
+        {
+          "id": 14,
+          "name": "Jacuzzi o alberca en terraza *",
+          "isPyr": true
+        },
+        {
+          "id": 15,
+          "name": "Sala de estar independiente *",
+          "isPyr": true
+        },
+        {
+          "id": 16,
+          "name": "Late check out (sujeto a disponibilidad) *",
+          "isPyr": true
+        }
+      ],
+      "en": [
+        {
+          "name": "Ocean or Lagoon view",
+          "isPyr": false
+        },
+        {
+          "name": "Bathrobe and slippers",
+          "isPyr": false
+        },
+        {
+          "name": "Expresso Coffeemaker",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Beach Clubs. Grand Plus Beach Club is Adults only",
+          "isPyr": false
+        },
+        {
+          "name": "24-hours Room Service",
+          "isPyr": false
+        },
+        {
+          "name": "Safety Box",
+          "isPyr": false
+        },
+        {
+          "name": "Bathroom Premium amenities",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Bars and Restaurants in the Hotel",
+          "isPyr": false
+        },
+        {
+          "name": "WiFi (1 device per person)",
+          "isPyr": false
+        },
+        {
+          "name": "Turn down service",
+          "isPyr": false
+        },
+        {
+          "name": "Turn down service",
+          "isPyr": false
+        },
+        {
+          "name": "20% discount on selected Treatments at Sensoria Spa *",
+          "isPyr": true
+        },
+        {
+          "name": "Jacuzzi or pool on the Suite Terrace *",
+          "isPyr": true
+        },
+        {
+          "name": "Separate living-room *",
+          "isPyr": true
+        },
+        {
+          "name": "Premium drinks Bar (minimun 2 nights)",
+          "isPyr": false
+        },
+        {
+          "name": "Late check-out (subject to availabity) *",
+          "isPyr": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "hotel_from": "Grand Oasis Cancun",
+    "image": "/img/upgrades/siankaan-pyr.jpg",
+    "nombre": {
+      "es": "UPGRADE ESTANDO EN GRAND OASIS CANCÚN A SIAN KA’AN JUNIOR SUITE",
+      "en": "UPGRADE FROM GRAND OASIS CANCÚN TO SIAN KA’AN JUNIOR SUITE"
+    },
+    "includes": {
+      "es": [
+        {
+          "name": "Frente de playa",
+          "isPyr": false
+        },
+        {
+          "name": "Albornoz y pantunflas de baño",
+          "isPyr": false
+        },
+        {
+          "name": "Acceso a todos los Beach Clubs del complejo. Grand Plus Beach Club es Solo Adultos.",
+          "isPyr": false
+        },
+        {
+          "name": "Room service 24 hrs",
+          "isPyr": false
+        },
+        {
+          "name": "Caja de seguridad",
+          "isPyr": false
+        },
+        {
+          "name": "Amenidades de baño Premium",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Acceso a todos los bares y restaurantes del complejo",
+          "isPyr": false
+        },
+        {
+          "name": "WiFi (1 dispositivo por persona)",
+          "isPyr": false
+        },
+        {
+          "name": "Revisión nocturna de la habitación y apertura de cama (bajo petición)",
+          "isPyr": false
+        },
+        {
+          "name": "Alberca en terraza *",
+          "isPyr": true
+        },
+        {
+          "name": "Late check out (sujeto a disponibilidad) *",
+          "isPyr": true
+        }
+      ],
+      "en": [
+        {
+          "name": "Beach front",
+          "isPyr": false
+        },
+        {
+          "name": "Bathrobe and slippers",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Beach Clubs.",
+          "isPyr": false
+        },
+        {
+          "name": "Grand Plus Beach Club is Adults only",
+          "isPyr": false
+        },
+        {
+          "name": "24-hours Room Service",
+          "isPyr": false
+        },
+        {
+          "name": "Safety Box",
+          "isPyr": false
+        },
+        {
+          "name": "Bathroom Premium amenities",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Bars and Restaurants in the Hotel",
+          "isPyr": false
+        },
+        {
+          "name": "WiFi (1 device per person)",
+          "isPyr": false
+        },
+        {
+          "name": "Turn down service (on request)",
+          "isPyr": false
+        },
+        {
+          "name": "Jacuzzi or pool on the Suite terrace*",
+          "isPyr": true
+        },
+        {
+          "name": "Late check-out (subject to availabity) *",
+          "isPyr": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "hotel_from": "Grand Oasis Cancun",
+    "image": "/img/upgrades/master-pyr.jpg",
+    "nombre": {
+      "es": "UPGRADE ESTANDO EN GRAND OASIS CANCÚN A MASTER SUITE EN THE PYRAMID",
+      "en": "UPGRADE FROM GRAND OASIS CANCÚN TO MASTER SUITE IN THE PYRAMID"
+    },
+    "includes": {
+      "es": [
+        {
+          "name": "Vista al mar o a la laguna",
+          "isPyr": false
+        },
+        {
+          "name": "Albornoz y pantunflas de baño",
+          "isPyr": false
+        },
+        {
+          "name": "Cafetera Express",
+          "isPyr": false
+        },
+        {
+          "name": "Acceso a todos los Beach Clubs del complejo. Grand Plus Beach Club es Solo Adultos.",
+          "isPyr": false
+        },
+        {
+          "name": "Room service 24 hrs",
+          "isPyr": false
+        },
+        {
+          "name": "Caja de seguridad",
+          "isPyr": false
+        },
+        {
+          "name": "Amenidades de baño Premium",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Acceso a todos los bares y restaurantes del complejo",
+          "isPyr": false
+        },
+        {
+          "name": "Wifi (1 dispositivo por persona)",
+          "isPyr": false
+        },
+        {
+          "name": "Revisión nocturna de la habitación y apertura de cama",
+          "isPyr": false
+        },
+        {
+          "name": "20% de descuento en tratamientos seleccionados en Spa Sensoria *",
+          "isPyr": true
+        },
+        {
+          "name": "Sala de estar independiente *",
+          "isPyr": true
+        },
+        {
+          "name": "Barra de bebidas Premium * (mínimo dos noches)",
+          "isPyr": true
+        },
+        {
+          "name": "Late check out (sujeto a disponibilidad) *",
+          "isPyr": true
+        }
+      ],
+      "en": [
+        {
+          "name": "Ocean or Lagoon view",
+          "isPyr": false
+        },
+        {
+          "name": "Bathrobe and slippers",
+          "isPyr": false
+        },
+        {
+          "name": "Expresso Coffeemaker",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Beach Clubs. Grand Plus Beach Club Is Adults only",
+          "isPyr": false
+        },
+        {
+          "name": "24-hours Room Service",
+          "isPyr": false
+        },
+        {
+          "name": "Safety Box",
+          "isPyr": false
+        },
+        {
+          "name": "Bathroom Premium amenities",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Bars and Restaurants in the Hotel",
+          "isPyr": false
+        },
+        {
+          "name": "Wifi (1 device per person)",
+          "isPyr": false
+        },
+        {
+          "name": "Turn down service",
+          "isPyr": false
+        },
+        {
+          "name": "20% discount on selected Treatments at Sensoria Spa *",
+          "isPyr": true
+        },
+        {
+          "name": "Separate living-room *",
+          "isPyr": true
+        },
+        {
+          "name": "Premium drinks Bar * (minimun 2 nights)",
+          "isPyr": true
+        },
+        {
+          "name": "Late check-out (subject to availabity) *",
+          "isPyr": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "hotel_from": "Grand Oasis Cancun",
+    "image": "/img/upgrades/standar-pyr.jpg",
+    "nombre": {
+      "es": "UPGRADE ESTANDO EN GRAND OASIS CANCÚN UPGRADE A ESTÁNDAR EN THE PYRAMID",
+      "en": "UPGRADE FROM GRAND OASIS CANCÚN TO STANDARD IN THE PYRAMID"
+    },
+    "includes": {
+      "es": [
+        {
+          "name": "Vista al mar, la laguna o el jardín",
+          "isPyr": false
+        },
+        {
+          "name": "Albornoz y pantuflas de baño",
+          "isPyr": false
+        },
+        {
+          "name": "Acceso a todos los Beach Clubs del complejo. Grand Plus Beach Club es Solo Adultos",
+          "isPyr": false
+        },
+        {
+          "name": "Room Service 24 horas",
+          "isPyr": false
+        },
+        {
+          "name": "Caja de seguridad",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Acceso a todos los Bares y Restaurantes del Complejo",
+          "isPyr": false
+        },
+        {
+          "name": "WiFi (1 dispositivo por persona)",
+          "isPyr": false
+        },
+        {
+          "name": "Revisión nocturna de la habitación y apertura de cama (bajo petición)",
+          "isPyr": false
+        }
+      ],
+      "en": [
+        {
+          "name": "Ocean, Lagoon or Garden view",
+          "isPyr": false
+        },
+        {
+          "name": "Bathrobe and slippers",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Beach Clubs. Grand Plus Beach Club is Adults only",
+          "isPyr": false
+        },
+        {
+          "name": "24-hours Room Service",
+          "isPyr": false
+        },
+        {
+          "name": "Safety Box",
+          "isPyr": false
+        },
+        {
+          "name": "Tablet",
+          "isPyr": false
+        },
+        {
+          "name": "Access to all Bars and Restaurants in the Hotel",
+          "isPyr": false
+        },
+        {
+          "name": "WiFi (1 device per person)",
+          "isPyr": false
+        },
+        {
+          "name": "Turn down service (on request)",
+          "isPyr": false
+        }
+      ]
+    }
+  }
+]

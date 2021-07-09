@@ -1,0 +1,110 @@
+[
+  {
+    "hotels": [1],
+    "id": 1,
+    "title": {
+      "es": "Romántico",
+      "en": "Romantic"
+    },
+    "image": "/img/spa/romantic.jpg",
+    "includes": {
+      "es": ["2 masajes relajantes de 50 min al aire libre."],
+      "en": ["Two 50 min outdoor relaxing massages"]
+    },
+    "price_no_promo": "4030",
+    "price": "3450",
+    "currency": "MXN",
+    "type": "2",
+    "isPromotion": true
+  },
+  {
+    "hotels": [1],
+    "id": 2,
+    "title": {
+      "es": "KING OR QUEEN FOR DAY",
+      "en": "Rey o Reina por un dia"
+    },
+    "image": "/img/spa/queen_or_king.jpg",
+    "includes": {
+      "es": ["Masaje relajante de 50 min", "Mascarilla facial", "Manicure o pedicure regular"],
+      "en": ["50 Minutes relaxing massage", "Facial Mask", "Regular manicure or pedicure"]
+    },
+    "price_no_promo": "3485",
+    "price": "2970",
+    "currency": "MXN",
+    "type": "1",
+    "isPromotion": true
+  },
+  {
+    "hotels": [1],
+    "id": 3,
+    "title": {
+      "es": "Piel Joven",
+      "en": "Young Skin"
+    },
+    "image": "/img/spa/young_skin.jpg",
+    "includes": {
+      "es": ["Masaje relajante de 50 min", "10 minutos de exfoliación", "25 minutos de envoltura"],
+      "en": ["50 Minutes relaxing massage", "10 minutes exfoliation", "25 minutes body wrap"]
+    },
+    "price_no_promo": "3200",
+    "price": "2720",
+    "currency": "MXN",
+    "type": "2",
+    "isPromotion": true
+  },
+  {
+    "hotels": [1],
+    "id": 4,
+    "title": {
+      "es": "SRI",
+      "en": "SRI"
+    },
+    "image": "/img/spa/sri.jpg",
+    "includes": {
+      "es": ["Masaje relajante de 50 min", "Facial de 50 min"],
+      "en": ["50 Minutes relaxing massage", "50 minutes facial mask"]
+    },
+    "price_no_promo": "3875",
+    "price": "3450",
+    "currency": "MXN",
+    "type": "2",
+    "isPromotion": true
+  },
+  {
+    "hotels": [1],
+    "id": 5,
+    "title": {
+      "es": "DEJATE CONSENTIR",
+      "en": "LET US PAMPER YOU"
+    },
+    "image": "/img/spa/let_us_pamper_you.jpg",
+    "includes": {
+      "es": ["2 masajes a la carta de 50 minutos cada uno"],
+      "en": ["Two 50 min massages a la carte"]
+    },
+    "price_no_promo": "6750",
+    "price": "4780",
+    "currency": "MXN",
+    "type": "1",
+    "isPromotion": true
+  },
+  {
+    "hotels": [1],
+    "id": 6,
+    "title": {
+      "es": "Deluxe",
+      "en": "Deluxe"
+    },
+    "image": "/img/spa/deluxe.jpg",
+    "includes": {
+      "es": ["Vapor o sauna", "Envoltura corporal", "50 minutos de masaje relajante", "30 minutos de jacuzzi", "Fresas con chocolate", "2 copas de vino de la casa"],
+      "en": ["*Steam bath or sauna ", "*Body wrap", "*50 minutes relaxing massage", "*30 minutes jacuzzi", "*Strawberries with chocolate", "*2 wine glasses from our cellar"]
+    },
+    "price_no_promo": "8670",
+    "price": "5980",
+    "currency": "MXN",
+    "type": "1",
+    "isPromotion": true
+  }
+]

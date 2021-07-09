@@ -1,0 +1,6 @@
+{
+  "title": "Enjoy the best Tours in Cancun",
+  "tipo-tour": "Tour type",
+  "requieres-transporte": "Do you need {{var}} transportation?",
+  "error-with-status": "A {{statusCode}} error occurred on server"
+}

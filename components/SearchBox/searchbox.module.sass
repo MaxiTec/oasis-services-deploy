@@ -1,0 +1,22 @@
+@import ../../../src/styles/sass/modules/_variables.sass
+
+.search_box
+    margin-bottom: 45px
+    &__title
+        background-color: $secondaryColor
+        line-height: 37px
+        text-align: center
+        height: 37px
+        font-size: 18px
+        letter-spacing: -0.54px
+        color: #ffffff
+        border-radius: 4px 4px 0 0
+
+        +media(">=md")
+            border-radius: 4px
+
+    &__inner
+        padding: em(36)
+        width: 100%
+        border: 1px solid rgba(68, 68, 68, 0.2)
+        border-radius: 4px

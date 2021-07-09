@@ -1,0 +1,39 @@
+@import ../../src/styles/sass/modules/_variables.sass
+
+.title_h1
+    font-size: 18px
+    letter-spacing: 0
+    line-height: 21px
+
+    +media(">=md")
+        font-size: 25px
+        letter-spacing: 0
+        line-height: 29px
+
+.title_form
+    font-size: 18px
+    letter-spacing: 0
+    line-height: 21px
+    color: $primaryColor
+
+    &.small
+        font-size:14px
+
+    &__click
+        cursor: pointer
+
+    // +media(">=md")
+    //     font-size: 18px
+
+.title_secondary
+    color: $primaryColor
+    font-size: em(20)
+    font-weight: bold
+    letter-spacing: 0
+    line-height: 24px
+
+    +media(">=lg")
+        font-size: em(25)
+        font-weight: bold
+        letter-spacing: 0
+        line-height: 29px
