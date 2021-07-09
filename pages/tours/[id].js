@@ -12,7 +12,7 @@ import Carousel from '../../components/Carousel';
 import TitleH1, { TitleSecondary } from '../../components/Titles';
 import { HeroImageInner } from '../../components/Layout/HeroImage';
 import Image from 'next/image';
-import IconRounded from '../../components/icons';
+import IconRounded from '../../components/Icons';
 import TicketsCard from '../../components/Tours';
 const TourPage = (props) => {
   console.log(props);
