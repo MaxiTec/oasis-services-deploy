@@ -12,7 +12,7 @@ import upgrades from '../static/locales/upgrades/data.json';
 import Card, { CardTourStatic } from '../components/Cards';
 import Pagination from '../components/Pagination';
 import Carousel from '../components/Carousel';
-import { TitleSecondary } from '../components/Titles';
+import { TitleSecondary } from '../components/titles';
 
 const Tours = (props) => {
   console.log(props);

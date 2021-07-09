@@ -8,7 +8,7 @@ import { debounce } from 'lodash';
 import { AntSelect, AntDatePicker } from './Fields';
 import Separator from '../Separator';
 import { useIsMount } from '../../hooks/utils';
-import { TitleForm } from '../Titles';
+import { TitleForm } from '../titles';
 
 const tourSchema = Yup.object().shape({
   fecha: Yup.string().required('Campo Obligatorio').nullable(),

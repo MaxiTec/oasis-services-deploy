@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TitleForm } from '../Titles';
+import { TitleForm } from '../titles';
 import styles from './styles.module.sass';
 import Price from '../Price';
 import { Row, Col, Button, Space, Divider } from 'antd';

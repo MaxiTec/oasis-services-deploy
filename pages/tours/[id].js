@@ -9,7 +9,7 @@ import Layout from '../../components/Layout';
 import upgrades from '../../static/locales/upgrades/data.json';
 import Card, { CardTourStatic } from '../../components/Cards';
 import Carousel from '../../components/Carousel';
-import TitleH1, { TitleSecondary } from '../../components/Titles';
+import TitleH1, { TitleSecondary } from '../../components/titles';
 import { HeroImageInner } from '../../components/Layout/HeroImage';
 import Image from 'next/image';
 import IconRounded from '../../components/Icons';

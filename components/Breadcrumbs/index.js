@@ -1,6 +1,6 @@
 import { Row, Col, Breadcrumb } from 'antd';
 import Link from 'next/link';
-import TitleH1 from '../Titles';
+import TitleH1 from '../titles';
 
 const Breadcrumbs = ({ isMobile, hasHero, title }) => {
   return (
